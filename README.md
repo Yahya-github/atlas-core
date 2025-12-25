@@ -1,2 +1,10 @@
 # atlas-core
-A public record of the systems, tools, and code behind my long-term development as a programmer.
+
+Central programming repository.
+
+This repository contains systems, tools, experiments, and documentation developed as part of long-term programming practice and skill development.
+
+- `experiments/` — prototypes and tests  
+- `tools/` — internal tooling and utilities  
+- `projects/` — larger codebases  
+- `docs/` — technical documentation and notes
